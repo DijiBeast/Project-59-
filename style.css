@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background: linear-gradient(#9FA8DA 0%, #01579B 100%);
+}
+
+h1 {
+    text-shadow: 2px 2px #FFEB3B;
+    font-size: 20px;
+    font-family: "Zen Loop"
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
